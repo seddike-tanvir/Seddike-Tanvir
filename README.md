@@ -6,9 +6,9 @@ I’m Seddike Tanvir from Narsingdi,Bangladesh . Working mainly as a student & b
 
 
 Skills:<br>
-✅ HTML<br> 
-✅ CSS<br>
-✅ Wordpress<br>
+✅ HTML5<br> 
+✅ CSS3<br>
+✅ JAVASCRIPT<br>
 
 
 Currently:
