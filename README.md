@@ -5,15 +5,17 @@ I’m Seddike Tanvir, a front-end developer from Narsingdi,Bangladesh. I'm passi
 I’m a Computer Science & Engineering (CSE) student who love to write code & solve real-world problem, to learn new skills & gain knowledge everyday.
 
 
-Skills:<br>
-✅ HTML5<br> 
-✅ CSS3<br>
-✅ JAVASCRIPT<br>
+Expertise:<br>
+🔸 HTML5<br> 
+🔸 CSS3<br>
+🔸 JAVASCRIPT<br>
+🔸 Tailwind CSS<br>
+🔸 React<br>
 
 
 Currently:
--  I’m working on Website Designing. 
--  I’m learning JavaScript.  
+-  I’m working on front-end Web development.
+-  I'm very interested in back-end, and hope to do well with this stack.
 
 
 Links to reach me :     
