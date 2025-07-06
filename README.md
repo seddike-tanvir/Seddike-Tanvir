@@ -1,5 +1,5 @@
 ## Hi! I'm Seddike Tanvir
-###### Learner | Web Developer | Tech Lover
+###### Learner | Web Developer | Tech Enthusiast
 
 I’m Seddike Tanvir from Narsingdi,Bangladesh . Working mainly as a student & beside studying I’m working on website development . I am Front End Web Developer
 & love to write code . I love to learn new skills & gain knowledge .
