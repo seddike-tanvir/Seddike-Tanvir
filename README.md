@@ -2,7 +2,7 @@
 ###### Learner | Web Developer | Tech Enthusiast
 
 I’m Seddike Tanvir, a front-end developer from Narsingdi,Bangladesh. I'm passionate on developing responsive & user friendly web applications. 
-I’m a Computer Science & Engineering (CSE) student who love to write code & solve real-world problem, to learn new skills & gain knowledge everyday.
+I’m an undergraduate Computer Science & Engineering (CSE) student who love to write code & solve real-world problem, to learn new skills & gain knowledge everyday.
 
 
 Expertise:<br>
